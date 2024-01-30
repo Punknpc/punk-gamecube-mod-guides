@@ -6,4 +6,4 @@ Now, you might be thinking, what's the difference between the normal version and
 
 **Also Important to metion that this plugs if you printed yourself, you need a resin printer, since and fdm printer will have a difficult task printing those**
 
-<span style="color: green"> Some green text </span>
+<span style="color: red"> Some green text </span>
