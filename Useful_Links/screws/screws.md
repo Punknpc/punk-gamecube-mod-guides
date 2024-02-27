@@ -12,3 +12,7 @@ so you will need:
 ## Bridge and trigger screws
 
 * **Torx screws, "M2 x 6mm"** ***(you can use the same link to buy this just change the paramters)***
+
+```
+You might be asking, is it need it?, well the starscrews that usually come with OEM GC controllers if you screw and unscrew them many time they tend to **warn off**
+``` 
