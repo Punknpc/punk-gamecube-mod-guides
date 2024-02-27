@@ -13,6 +13,10 @@ so you will need:
 
 * **Torx screws, "M2 x 6mm"** ***(you can use the same link to buy this just change the paramters)***
 
-```
-You might be asking, is it need it?, well the starscrews that usually come with OEM GC controllers if you screw and unscrew them many time they tend to **warn off**
-``` 
+
+* You might be asking, is it need it?
+- Well the star screws that usually come with OEM GC controllers if you screw and unscrew them many time they tend to **warn off**
+
+what is exactly a Torx screw?
+"Torx screws are typically used in vehicles, motorcycles, bicycles, computer systems, hard disk drives and consumer electronics. The unusual star-shaped head makes them far more secure than regular flat-head or cross-head screws and allows higher torque transmission so screws and bolts can be tightened more securely."
+**what is important here is that you can screw and unscrew them better and will last for longer**
