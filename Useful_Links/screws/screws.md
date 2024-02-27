@@ -1,3 +1,6 @@
+* First of all here you have a guide to firesCustomController about the Torx Screw upgrade:
+- [Link to guide](https://firescc.com/mod-guides#/torx-screw-upgrade)
+
 # What screws to use?
 
 You can use any type of screws like the **star** one that alredy come with the controller, but you can **upgrade it** to **Torx** ones
