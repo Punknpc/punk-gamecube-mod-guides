@@ -19,4 +19,5 @@ so you will need:
 
 what is exactly a Torx screw?
 "Torx screws are typically used in vehicles, motorcycles, bicycles, computer systems, hard disk drives and consumer electronics. The unusual star-shaped head makes them far more secure than regular flat-head or cross-head screws and allows higher torque transmission so screws and bolts can be tightened more securely."
+
 **what is important here is that you can screw and unscrew them better and will last for longer**
